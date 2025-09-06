@@ -1,5 +1,5 @@
-fisrtLine = 'C is fun\n'
-secondLine = 'Python is cool\n'
-thirdLine = 'JavaScript is amazing\n'
+const firstLine = 'C is fun\n';
+const secondLine = 'Python is cool\n';
+const thirdLine = 'JavaScript is amazing';
 
-console.log(fisrtLine + secondLine + thirdLine);
+console.log(firstLine + secondLine + thirdLine);
